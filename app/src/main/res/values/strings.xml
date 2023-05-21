@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratorio03</string>
+    <string name="title_activity_add">Add</string>
+    <string name="title_activity_edit">Edit</string>
+    <string name="title_activity_delete">Delete</string>
+    <string name="title_activity_list">List</string>
+</resources>
